@@ -6,3 +6,11 @@ E:\work\cod_net\JpushApiClientExample\JpushApiClientExample\bin\Debug\JpushApiCl
 E:\work\cod_net\JpushApiClientExample\JpushApiClientExample\obj\Debug\JpushApiClientExample.csprojResolveAssemblyReference.cache
 E:\work\cod_net\JpushApiClientExample\JpushApiClientExample\obj\Debug\JpushApiClientExample.exe
 E:\work\cod_net\JpushApiClientExample\JpushApiClientExample\obj\Debug\JpushApiClientExample.pdb
+E:\work\code_net\jpush-api-csharp-client\example\JPushApiClientExample\JpushApiClientExample\bin\Debug\JpushApiClientExample.exe.config
+E:\work\code_net\jpush-api-csharp-client\example\JPushApiClientExample\JpushApiClientExample\obj\Debug\JpushApiClientExample.exe
+E:\work\code_net\jpush-api-csharp-client\example\JPushApiClientExample\JpushApiClientExample\obj\Debug\JpushApiClientExample.pdb
+E:\work\code_net\jpush-api-csharp-client\example\JPushApiClientExample\JpushApiClientExample\bin\Debug\JpushApiClientExample.exe
+E:\work\code_net\jpush-api-csharp-client\example\JPushApiClientExample\JpushApiClientExample\bin\Debug\JpushApiClientExample.pdb
+E:\work\code_net\jpush-api-csharp-client\example\JPushApiClientExample\JpushApiClientExample\bin\Debug\JpushApiClient.dll
+E:\work\code_net\jpush-api-csharp-client\example\JPushApiClientExample\JpushApiClientExample\bin\Debug\JpushApiClient.pdb
+E:\work\code_net\jpush-api-csharp-client\example\JPushApiClientExample\JpushApiClientExample\obj\Debug\JpushApiClientExample.csprojResolveAssemblyReference.cache

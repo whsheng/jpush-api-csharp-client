@@ -8,9 +8,9 @@ using System.Threading.Tasks;
  * xinxin@jpush.cn
  * 2013-12-12
  */
-namespace JpushApiClient
+namespace JPushApiClient
 {
-    public class JpushClient
+    public class JPushClient
     {
         //appkey
         private String app_key;
@@ -19,7 +19,7 @@ namespace JpushApiClient
         //离线时长int    $time_to_live 从消息推送时起，保存离线的时长。秒为单位。最多支持10天（864000秒）。 0 表示该消息不保存离线。
         private int time_to_live;
 
-        public JpushClient(String app_key, String masterSecret, int time_to_live)
+        public JPushClient(String app_key, String masterSecret, int time_to_live)
         {
             this.app_key = app_key;
             this.masterSecret = masterSecret;

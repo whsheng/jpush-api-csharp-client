@@ -11,7 +11,7 @@ using System.IO;
  * xinxin@jpush.cn
  * 2013-12-12
  */
-namespace JpushApiClient
+namespace JPushApiClient
 {
 
     /**

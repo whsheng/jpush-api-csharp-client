@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using JpushApiClient;
+using JPushApiClient;
 
 namespace JpushApiClientExample
 {
@@ -18,7 +18,7 @@ namespace JpushApiClientExample
             String master_secret = "570f9aadcffe791658dde66b";
             String app_key = "7ebc243ae2b37128472b0875";
             int sendno = 9;
-            JpushClient client = new JpushClient(app_key, master_secret, 0);
+            JPushClient client = new JPushClient(app_key, master_secret, 0);
             result = client.sendNotificationByTag("tag", sendno, "des", "tag notify title", "tag notify content", "android", "", "");
 
             Console.Write("sendNotificationByTag************" + result);
