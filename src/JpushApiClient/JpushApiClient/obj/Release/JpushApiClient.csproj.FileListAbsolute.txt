@@ -1,4 +1,0 @@
-E:\work\code_net\jpush-api-csharp-client\src\JpushApiClient\JpushApiClient\bin\Release\JpushApiClient.dll
-E:\work\code_net\jpush-api-csharp-client\src\JpushApiClient\JpushApiClient\bin\Release\JpushApiClient.pdb
-E:\work\code_net\jpush-api-csharp-client\src\JpushApiClient\JpushApiClient\obj\Release\JpushApiClient.dll
-E:\work\code_net\jpush-api-csharp-client\src\JpushApiClient\JpushApiClient\obj\Release\JpushApiClient.pdb
